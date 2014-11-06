@@ -1,0 +1,1 @@
+:for i from=1 to=254 do={/queue simple add target="10.10.10.$i" max-limit=1M/1M}
